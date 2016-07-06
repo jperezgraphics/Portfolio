@@ -1,0 +1,368 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.responsive.com" resolutions="1x" timestamp="1467835088173">
+  <folder name="css">
+    <file name="site_global.css" crc="4204561267"/>
+    <file name="master_b-master.css" crc="312102589" ref="libre-graphics-meeting:dimsum-corner:future-foods:ux-design:emilio-de-la-morena:design-museum-competition:motion-graphics:avant:eleven11:d-ad-website:libre-graphics-re-brand:others"/>
+    <file name="nomq_preview_master_b-master.css" crc="321525473" ref="libre-graphics-meeting:dimsum-corner:future-foods:ux-design:emilio-de-la-morena:design-museum-competition:motion-graphics:avant:eleven11:d-ad-website:libre-graphics-re-brand:others"/>
+    <file name="master_a-master.css" crc="134511829" ref="projects:about"/>
+    <file name="nomq_preview_master_a-master.css" crc="321525473" ref="projects:about"/>
+    <file name="libre-graphics-meeting.css" crc="34026071" ref="libre-graphics-meeting"/>
+    <file name="dimsum-corner.css" crc="3788999740" ref="dimsum-corner"/>
+    <file name="future-foods.css" crc="485855677" ref="future-foods"/>
+    <file name="projects.css" crc="385865249" ref="projects"/>
+    <file name="nomq_projects.css" crc="316313684" ref="projects"/>
+    <file name="ux-design.css" crc="461048651" ref="ux-design"/>
+    <file name="nomq_ux-design.css" crc="321525473" ref="ux-design"/>
+    <file name="emilio-de-la-morena.css" crc="262190327" ref="emilio-de-la-morena"/>
+    <file name="index.css" crc="494026039" ref="index"/>
+    <file name="nomq_index.css" crc="3761218044" ref="index"/>
+    <file name="design-museum-competition.css" crc="4183598022" ref="design-museum-competition"/>
+    <file name="motion-graphics.css" crc="3886464453" ref="motion-graphics"/>
+    <file name="avant.css" crc="3937295406" ref="avant"/>
+    <file name="about.css" crc="4027861889" ref="about"/>
+    <file name="nomq_about.css" crc="4081676149" ref="about"/>
+    <file name="eleven11.css" crc="378519935" ref="eleven11"/>
+    <file name="d-ad-website.css" crc="3837181420" ref="d-ad-website"/>
+    <file name="libre-graphics-re-brand.css" crc="50538333" ref="libre-graphics-re-brand"/>
+    <file name="others.css" crc="291561204" ref="others"/>
+  </folder>
+  <folder name="assets">
+    <file name="john-perez-cv.pdf" crc="353007791" seo="true" mt="1466066645000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:avant:eleven11:dimsum-corner:others:motion-graphics:ux-design:index:about:projects:d-ad-website"/>
+    <file name="museutils.js" crc="3790713428" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:avant:eleven11:dimsum-corner:others:motion-graphics:ux-design:index:about:projects:d-ad-website"/>
+    <file name="whatinput.js" crc="84559013" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:avant:eleven11:dimsum-corner:others:motion-graphics:ux-design:index:about:projects:d-ad-website"/>
+    <file name="pie.js" crc="3827607177" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:eleven11:dimsum-corner:others:ux-design"/>
+    <file name="webpro.js" crc="329496574" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:eleven11:dimsum-corner:others:ux-design:d-ad-website"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:eleven11:dimsum-corner:others:ux-design:d-ad-website"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:eleven11:dimsum-corner:others:ux-design:d-ad-website"/>
+    <file name="touchswipe.js" crc="497316881" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:eleven11:dimsum-corner:others:ux-design:d-ad-website"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:avant:eleven11:dimsum-corner:others:motion-graphics:ux-design:index:about:projects:d-ad-website"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:about:projects"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="about:projects"/>
+  </folder>
+  <folder name="images">
+    <file name="blk.jpg" crc="3821967602" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="blank.gif" crc="4208392903" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:eleven11:dimsum-corner:others:ux-design:index:about:projects:d-ad-website"/>
+    <file name="screen shot 2015-12-31 at 155354.jpg" crc="3895423486" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="screen shot 2016-01-05 at 221235.jpg" crc="475666998" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="screen shot 2016-01-06 at 223928.jpg" crc="299318342" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="screen shot 2016-01-06 at 223939 2.jpg" crc="283158859" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="screen shot 2016-01-12 at 115342.jpg" crc="97887306" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="indoor-advertising-poster-mockup-2.jpg" crc="192657842" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="screen-shot-2015-12-31-at-154937352x624.jpg" crc="152142424" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="t-shirt-mock-up-vol03.jpg" crc="3856631292" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="t-shirt-mock-up-vol012.jpg" crc="4007556653" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="t-shirt-mock-up-vol033.jpg" crc="121332476" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="t-shirt-mock-up-vol03234.jpg" crc="178931264" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="bus stop ad.jpg" crc="536761191" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="bus_mockup.jpg" crc="84832314" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="untitled-2.jpg" crc="2603699" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="canvas tote bag mockup1.jpg" crc="3899225264" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="canvas tote bag mockup3.jpg" crc="3937521178" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="canvas-tote-bag-mockup1.jpg" crc="4111797691" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="direction1.jpg" crc="4120679836" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="direction2.jpg" crc="4034969427" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="direction3.jpg" crc="4128262317" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="direction4.jpg" crc="62957269" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="edit-content.jpg" crc="4048701715" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="blk480x325.jpg" crc="4281896080" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="screen shot 2015-12-31 at 155354480x300.jpg" crc="3845069820" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="screen shot 2016-01-05 at 221235480x308.jpg" crc="280117590" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="screen shot 2016-01-06 at 223928480x325.jpg" crc="181423694" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="screen shot 2016-01-06 at 223939 2480x325.jpg" crc="3794268181" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="screen shot 2016-01-12 at 115342480x300.jpg" crc="4239310179" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="indoor-advertising-poster-mockup-2480x320.jpg" crc="457965766" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="screen-shot-2015-12-31-at-154937-crop-u15515.jpg" crc="110811965" ref="libre-graphics-re-brand"/>
+    <file name="t-shirt-mock-up-vol03-crop-u16427.jpg" crc="60039819" ref="libre-graphics-re-brand"/>
+    <file name="t-shirt-mock-up-vol012-crop-u16447.jpg" crc="4198356390" ref="libre-graphics-re-brand"/>
+    <file name="t-shirt-mock-up-vol033-crop-u16467.jpg" crc="210855657" ref="libre-graphics-re-brand"/>
+    <file name="t-shirt-mock-up-vol03234-crop-u16487.jpg" crc="4180147236" ref="libre-graphics-re-brand"/>
+    <file name="bus stop ad480x320.jpg" crc="1425525" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="bus_mockup480x300.jpg" crc="3804312469" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="untitled-2480x340.jpg" crc="203846991" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="canvas tote bag mockup1-crop-u15519.jpg" crc="3983217119" ref="libre-graphics-re-brand"/>
+    <file name="canvas tote bag mockup3-crop-u15525.jpg" crc="4290001665" ref="libre-graphics-re-brand"/>
+    <file name="canvas-tote-bag-mockup1-crop-u15907.jpg" crc="4230567636" ref="libre-graphics-re-brand"/>
+    <file name="direction1-crop-u15927.jpg" crc="3914674752" ref="libre-graphics-re-brand"/>
+    <file name="direction2-crop-u15947.jpg" crc="4057546033" ref="libre-graphics-re-brand"/>
+    <file name="direction3-crop-u15967.jpg" crc="239502129" ref="libre-graphics-re-brand"/>
+    <file name="direction4-crop-u15987.jpg" crc="3941108287" ref="libre-graphics-re-brand"/>
+    <file name="edit-content480x328.jpg" crc="4289111178" seo="true" ref="libre-graphics-re-brand"/>
+    <file name="arrows-mn_arrow_left white.png" crc="17866525" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:eleven11:dimsum-corner:others:ux-design"/>
+    <file name="arrows-mn_arrow_left.png" crc="4126107877" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:eleven11:dimsum-corner:others:ux-design"/>
+    <file name="arrows-mn_arrow_right white.png" crc="3810799187" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:eleven11:dimsum-corner:others:ux-design"/>
+    <file name="arrows-mn_arrow_right.png" crc="4062137678" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:eleven11:dimsum-corner:others:ux-design"/>
+    <file name="arrows-mn_close white.png" crc="4081992300" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:eleven11:dimsum-corner:others:ux-design"/>
+    <file name="arrows-mn_close.png" crc="206776778" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:eleven11:dimsum-corner:others:ux-design"/>
+    <file name="loading.gif" crc="3815509949" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:eleven11:dimsum-corner:others:ux-design:d-ad-website"/>
+    <file name="arrow-downjpg.svg" crc="121646728" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:avant:eleven11:dimsum-corner:others:motion-graphics:ux-design:about:projects:d-ad-website"/>
+    <file name="arrow-downjpg_poster_.png" crc="454599753" ref="libre-graphics-re-brand"/>
+    <file name="arrow-downjpg2.svg" crc="44328770" ref="libre-graphics-re-brand:libre-graphics-meeting:future-foods:emilio-de-la-morena:design-museum-competition:avant:eleven11:dimsum-corner:others:motion-graphics:ux-design:about:projects:d-ad-website"/>
+    <file name="arrow-downjpg2_poster_.png" crc="393301600" ref="libre-graphics-re-brand"/>
+    <file name="logo-final1-u26741.png" crc="478434877" ref="libre-graphics-re-brand"/>
+    <file name="logo1.gif" crc="37085955" seo="true" ref="libre-graphics-meeting"/>
+    <file name="lgm tshirt.jpg" crc="140254616" seo="true" ref="libre-graphics-meeting"/>
+    <file name="macbook-and-bang-olufsen-template-2.jpg" crc="109930406" seo="true" ref="libre-graphics-meeting"/>
+    <file name="canvas-tote-bag-mockup.jpg" crc="4171918696" seo="true" ref="libre-graphics-meeting"/>
+    <file name="t-shirt-mock-up-vol01.jpg" crc="519574462" seo="true" ref="libre-graphics-meeting"/>
+    <file name="branding-identity-mockup-vol9 copy.png" crc="3907764608" seo="true" ref="libre-graphics-meeting"/>
+    <file name="-untitled-.jpg" crc="279138634" seo="true" ref="libre-graphics-meeting"/>
+    <file name="t-shirth-design.svg" crc="4084752597" ref="libre-graphics-meeting"/>
+    <file name="t shirth design_poster_.png" crc="3997059451" ref="libre-graphics-meeting"/>
+    <file name="webanner2.jpg" crc="4132968050" seo="true" ref="libre-graphics-meeting"/>
+    <file name="flyer.jpg" crc="4014998507" seo="true" ref="libre-graphics-meeting:projects"/>
+    <file name="programdesoutline.svg" crc="34691849" ref="libre-graphics-meeting"/>
+    <file name="programdesoutline_poster_.png" crc="3892943253" ref="libre-graphics-meeting"/>
+    <file name="map1pdfff1.jpg" crc="4006760623" seo="true" ref="libre-graphics-meeting"/>
+    <file name="poster 1.jpg" crc="143325255" seo="true" ref="libre-graphics-meeting"/>
+    <file name="untitled-1.png" crc="4225842848" seo="true" ref="libre-graphics-meeting"/>
+    <file name="gimp-glitch-art-background-v1.png" crc="4128227314" seo="true" ref="libre-graphics-meeting"/>
+    <file name="map1ss2.jpg" crc="446004093" seo="true" ref="libre-graphics-meeting"/>
+    <file name="lgm tshirt-crop-u20830.jpg" crc="228306491" ref="libre-graphics-meeting"/>
+    <file name="macbook-and-bang-olufsen-template-2-crop-u20832.jpg" crc="536285318" ref="libre-graphics-meeting"/>
+    <file name="canvas-tote-bag-mockup-crop-u20837.jpg" crc="177653293" ref="libre-graphics-meeting"/>
+    <file name="t-shirt-mock-up-vol01-crop-u20826.jpg" crc="11204817" ref="libre-graphics-meeting"/>
+    <file name="branding-identity-mockup-vol9 copy508x272.png" crc="369359642" seo="true" ref="libre-graphics-meeting"/>
+    <file name="-untitled-480x340.jpg" crc="245452777" seo="true" ref="libre-graphics-meeting"/>
+    <file name="webanner2569x272.jpg" crc="278874304" seo="true" ref="libre-graphics-meeting"/>
+    <file name="flyer480x339.jpg" crc="4238306170" seo="true" ref="libre-graphics-meeting"/>
+    <file name="map1pdfff1480x340.jpg" crc="284648520" seo="true" ref="libre-graphics-meeting"/>
+    <file name="poster 1-crop-u20836.jpg" crc="268254792" ref="libre-graphics-meeting"/>
+    <file name="untitled-1-crop-u20822.png" crc="526165040" ref="libre-graphics-meeting"/>
+    <file name="gimp-glitch-art-background-v1-crop-u20820.png" crc="3801802248" ref="libre-graphics-meeting"/>
+    <file name="map1ss2480x340.jpg" crc="4275077228" seo="true" ref="libre-graphics-meeting"/>
+    <file name="renderedimagenew.jpg" crc="4168853027" seo="true" ref="libre-graphics-meeting"/>
+    <file name="logo svg.jpg" crc="4062483981" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-25 at 183933.jpg" crc="378638142" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-25 at 183938.jpg" crc="428106482" seo="true" ref="future-foods"/>
+    <file name="shopbot trolley.jpg" crc="273458909" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-25 at 183939.jpg" crc="506289985" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-25 at 183936.jpg" crc="350496257" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-25 at 153054352x624.jpg" crc="112376067" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-25 at 114232351x624.jpg" crc="4110444496" seo="true" ref="future-foods"/>
+    <file name="sign in351x624.jpg" crc="244476089" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-24 at 233100.jpg" crc="3957780979" seo="true" ref="future-foods:ux-design"/>
+    <file name="screen shot 2016-05-24 at 233006.jpg" crc="12762101" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-24 at 233012.jpg" crc="4167163040" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-24 at 233029.jpg" crc="201624437" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-24 at 233047.jpg" crc="408941800" seo="true" ref="future-foods:ux-design"/>
+    <file name="screen shot 2016-05-25 at 183943.jpg" crc="90837390" seo="true" ref="future-foods"/>
+    <file name="logo svg480x292.jpg" crc="528042285" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-25 at 183933484x272.jpg" crc="521947950" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-25 at 183938484x272.jpg" crc="3769049769" seo="true" ref="future-foods"/>
+    <file name="shopbot trolley480x297.jpg" crc="103675440" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-25 at 183939484x272.jpg" crc="3958605537" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-25 at 183936484x272.jpg" crc="189543896" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-25 at 153054-crop-u25659.jpg" crc="320213863" ref="future-foods"/>
+    <file name="screen shot 2016-05-25 at 114232-crop-u26353.jpg" crc="365740008" ref="future-foods"/>
+    <file name="sign in-crop-u25678.jpg" crc="66704330" ref="future-foods"/>
+    <file name="screen shot 2016-05-24 at 233100484x272.jpg" crc="3769280299" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-24 at 233006484x272.jpg" crc="4199998563" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-24 at 233012484x272.jpg" crc="4229748668" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-24 at 233029484x272.jpg" crc="3846506704" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-24 at 233047484x272.jpg" crc="99675278" seo="true" ref="future-foods"/>
+    <file name="screen shot 2016-05-25 at 183943484x272.jpg" crc="4204617734" seo="true" ref="future-foods"/>
+    <file name="image showreel.jpg" crc="435744621" seo="true" ref="future-foods:ux-design:projects"/>
+    <file name="coral.jpg" crc="4122149377" seo="true" ref="emilio-de-la-morena"/>
+    <file name="ss4.jpg" crc="431421681" seo="true" ref="emilio-de-la-morena"/>
+    <file name="screen shot 2015-06-15 at 161647.jpg" crc="313983024" seo="true" ref="emilio-de-la-morena"/>
+    <file name="pf14_11 copy.jpg" crc="258649916" seo="true" ref="emilio-de-la-morena"/>
+    <file name="screen shot 2015-06-16 at 115501.jpg" crc="4190807455" seo="true" ref="emilio-de-la-morena"/>
+    <file name="screen shot 2015-06-15 at 160929.jpg" crc="154402985" seo="true" ref="emilio-de-la-morena"/>
+    <file name="untitled-81.jpg" crc="509942291" seo="true" ref="emilio-de-la-morena"/>
+    <file name="screen shot 2015-06-16 at 131638155x624.jpg" crc="4173323104" seo="true" ref="emilio-de-la-morena"/>
+    <file name="ss1 copy.jpg" crc="3949658674" seo="true" ref="emilio-de-la-morena"/>
+    <file name="5eaa83b0ed8b778ab5c01d7126959cda.jpg" crc="223716571" seo="true" ref="emilio-de-la-morena"/>
+    <file name="3.jpg" crc="514975574" seo="true" ref="emilio-de-la-morena"/>
+    <file name="pf14_2.jpg" crc="4289641450" seo="true" ref="emilio-de-la-morena"/>
+    <file name="screen shot 2015-06-15 at 161047915x588.jpg" crc="30144542" seo="true" ref="emilio-de-la-morena"/>
+    <file name="tatler.jpg" crc="4256258180" seo="true" ref="emilio-de-la-morena"/>
+    <file name="1985.jpg" crc="98658515" seo="true" ref="emilio-de-la-morena"/>
+    <file name="screen shot 2015-06-15 at 160750.jpg" crc="56935367" seo="true" ref="emilio-de-la-morena"/>
+    <file name="coral-crop-u27560.jpg" crc="225305432" ref="emilio-de-la-morena"/>
+    <file name="ss4-crop-u27554.jpg" crc="3904396780" ref="emilio-de-la-morena"/>
+    <file name="screen shot 2015-06-15 at 161647-crop-u27550.jpg" crc="182158658" ref="emilio-de-la-morena"/>
+    <file name="pf14_11 copy-crop-u27546.jpg" crc="107162285" ref="emilio-de-la-morena"/>
+    <file name="screen shot 2015-06-16 at 115501-crop-u27556.jpg" crc="440352388" ref="emilio-de-la-morena"/>
+    <file name="screen shot 2015-06-15 at 160929-crop-u27562.jpg" crc="4173540066" ref="emilio-de-la-morena"/>
+    <file name="untitled-81-crop-u27558.jpg" crc="3922991557" ref="emilio-de-la-morena"/>
+    <file name="screen shot 2015-06-16 at 131638-crop-u27566.jpg" crc="4026017985" ref="emilio-de-la-morena"/>
+    <file name="ss1 copy-crop-u27564.jpg" crc="502981057" ref="emilio-de-la-morena"/>
+    <file name="5eaa83b0ed8b778ab5c01d7126959cda-crop-u27568.jpg" crc="4026969590" ref="emilio-de-la-morena"/>
+    <file name="3-crop-u27542.jpg" crc="3776738689" ref="emilio-de-la-morena"/>
+    <file name="pf14_2-crop-u27548.jpg" crc="3820527158" ref="emilio-de-la-morena"/>
+    <file name="screen shot 2015-06-15 at 161047480x309.jpg" crc="4278603565" seo="true" ref="emilio-de-la-morena"/>
+    <file name="tatler-crop-u27544.jpg" crc="3929806883" ref="emilio-de-la-morena"/>
+    <file name="1985-crop-u27552.jpg" crc="134696753" ref="emilio-de-la-morena"/>
+    <file name="screen shot 2015-06-15 at 160750-crop-u27573.jpg" crc="4226242392" ref="emilio-de-la-morena"/>
+    <file name="screen shot 2015-06-15 at 161047.jpg" crc="3879723689" ref="emilio-de-la-morena"/>
+    <file name="design museum-page-005.jpg" crc="290206034" seo="true" ref="design-museum-competition"/>
+    <file name="finaaaal.jpg" crc="491548108" seo="true" ref="design-museum-competition"/>
+    <file name="screen shot 2015-02-24 at 212218.jpg" crc="4155042422" seo="true" ref="design-museum-competition"/>
+    <file name="img (7).jpg" crc="16055114" seo="true" ref="design-museum-competition"/>
+    <file name="screen shot 2015-02-24 at 204720.jpg" crc="3909721023" seo="true" ref="design-museum-competition"/>
+    <file name="screen shot 2015-02-25 at 093258.jpg" crc="3939666046" seo="true" ref="design-museum-competition"/>
+    <file name="design museum-page-006.jpg" crc="3949081401" seo="true" ref="design-museum-competition"/>
+    <file name="design museum-page-007.jpg" crc="3883176792" seo="true" ref="design-museum-competition"/>
+    <file name="design museum-page-004.jpg" crc="126186492" seo="true" ref="design-museum-competition"/>
+    <file name="design museum-page-005-crop-u28514.jpg" crc="4088693317" ref="design-museum-competition"/>
+    <file name="finaaaal480x334.jpg" crc="375261955" seo="true" ref="design-museum-competition"/>
+    <file name="screen shot 2015-02-24 at 212218480x293.jpg" crc="4270463061" seo="true" ref="design-museum-competition"/>
+    <file name="img (7)-crop-u34934.jpg" crc="4164097068" ref="design-museum-competition"/>
+    <file name="screen shot 2015-02-24 at 204720480x280.jpg" crc="91015058" seo="true" ref="design-museum-competition"/>
+    <file name="screen shot 2015-02-25 at 093258-crop-u28508.jpg" crc="4251597329" ref="design-museum-competition"/>
+    <file name="design museum-page-006-crop-u28534.jpg" crc="4150659105" ref="design-museum-competition"/>
+    <file name="design museum-page-007-crop-u28518.jpg" crc="4106169918" ref="design-museum-competition"/>
+    <file name="design museum-page-004-crop-u28516.jpg" crc="49316261" ref="design-museum-competition"/>
+    <file name="img_0176 copy.jpg" crc="56040144" seo="true" ref="design-museum-competition"/>
+    <file name="240079_2120720379653_7780480_o.jpg" crc="87953438" seo="true" ref="avant"/>
+    <file name="white logo.png" crc="13372878" seo="true" ref="avant"/>
+    <file name="white logo2.png" crc="342976096" seo="true" ref="avant"/>
+    <file name="2jpg.jpg" crc="4015141194" seo="true" ref="eleven11"/>
+    <file name="5jpg.jpg" crc="57130293" seo="true" ref="eleven11"/>
+    <file name="7jpg.jpg" crc="4001306705" seo="true" ref="eleven11"/>
+    <file name="23.jpg" crc="201035740" seo="true" ref="eleven11"/>
+    <file name="18.jpg" crc="337229158" seo="true" ref="eleven11"/>
+    <file name="8.jpg" crc="292404741" seo="true" ref="eleven11"/>
+    <file name="6jpg.jpg" crc="129967715" seo="true" ref="eleven11"/>
+    <file name="4 2.jpg" crc="3795615966" seo="true" ref="eleven11"/>
+    <file name="4jpg.jpg" crc="3844195765" seo="true" ref="eleven11"/>
+    <file name="1.jpg" crc="27442713" seo="true" ref="eleven11"/>
+    <file name="17.jpg" crc="4199039976" seo="true" ref="eleven11"/>
+    <file name="11.jpg" crc="3973628021" seo="true" ref="eleven11"/>
+    <file name="12jpg.jpg" crc="4118279619" seo="true" ref="eleven11"/>
+    <file name="14.jpg" crc="3781317802" seo="true" ref="eleven11"/>
+    <file name="15.jpg" crc="76647600" seo="true" ref="eleven11"/>
+    <file name="10.jpg" crc="57962212" seo="true" ref="eleven11"/>
+    <file name="2jpg-crop-u31026.jpg" crc="403339905" ref="eleven11"/>
+    <file name="5jpg544x272.jpg" crc="499293512" seo="true" ref="eleven11"/>
+    <file name="7jpg-crop-u31007.jpg" crc="121919099" ref="eleven11"/>
+    <file name="23-crop-u31013.jpg" crc="242901019" ref="eleven11"/>
+    <file name="18-crop-u31011.jpg" crc="203230752" ref="eleven11"/>
+    <file name="8527x272.jpg" crc="494986710" seo="true" ref="eleven11"/>
+    <file name="6jpg564x272.jpg" crc="3912944055" seo="true" ref="eleven11"/>
+    <file name="4 2-crop-u31018.jpg" crc="4007649067" ref="eleven11"/>
+    <file name="4jpg-crop-u31036.jpg" crc="4048723028" ref="eleven11"/>
+    <file name="1480x278.jpg" crc="4294342662" seo="true" ref="eleven11"/>
+    <file name="17559x272.jpg" crc="3933852101" seo="true" ref="eleven11"/>
+    <file name="11569x272.jpg" crc="178205715" seo="true" ref="eleven11"/>
+    <file name="12jpg520x272.jpg" crc="4062389919" seo="true" ref="eleven11"/>
+    <file name="14-crop-u31030.jpg" crc="171470239" ref="eleven11"/>
+    <file name="15481x272.jpg" crc="3984400189" seo="true" ref="eleven11"/>
+    <file name="10480x304.jpg" crc="4160648426" seo="true" ref="eleven11"/>
+    <file name="32.jpg" crc="4162595475" seo="true" ref="eleven11"/>
+    <file name="untitled-3.jpg" crc="4027005758" seo="true" ref="dimsum-corner"/>
+    <file name="hhbhb.jpg" crc="4276198603" seo="true" ref="dimsum-corner"/>
+    <file name="logo 2.jpg" crc="3844668372" seo="true" ref="dimsum-corner"/>
+    <file name="final303x624.jpg" crc="3983296884" seo="true" ref="dimsum-corner"/>
+    <file name="jj.jpg" crc="4010759449" seo="true" ref="dimsum-corner"/>
+    <file name="h.jpg" crc="326082221" seo="true" ref="dimsum-corner"/>
+    <file name="bn.jpg" crc="224170562" seo="true" ref="dimsum-corner"/>
+    <file name="dim.jpg" crc="184451324" seo="true" ref="dimsum-corner"/>
+    <file name="untitled-3480x320.jpg" crc="3885579939" seo="true" ref="dimsum-corner"/>
+    <file name="hhbhb-crop-u34678.jpg" crc="358612365" ref="dimsum-corner"/>
+    <file name="logo 2480x323.jpg" crc="455433604" seo="true" ref="dimsum-corner"/>
+    <file name="final-crop-u34693.jpg" crc="19679546" ref="dimsum-corner"/>
+    <file name="jj480x288.jpg" crc="398802216" seo="true" ref="dimsum-corner"/>
+    <file name="h480x320.jpg" crc="3833394108" seo="true" ref="dimsum-corner"/>
+    <file name="bn480x320.jpg" crc="3796661751" seo="true" ref="dimsum-corner"/>
+    <file name="dim-crop-u34682.jpg" crc="468456135" ref="dimsum-corner"/>
+    <file name="8.png" crc="503106114" seo="true" ref="dimsum-corner"/>
+    <file name="774464_10200384492556970_1488572564_o.jpg" crc="206101292" seo="true" ref="others"/>
+    <file name="finalfinal.jpg" crc="3901817641" seo="true" ref="others"/>
+    <file name="a.png" crc="4005199399" seo="true" ref="others"/>
+    <file name="mnss.jpg" crc="3815378062" seo="true" ref="others"/>
+    <file name="untitled-32.jpg" crc="232921019" seo="true" ref="others"/>
+    <file name="business card showcase.jpg" crc="3980626822" seo="true" ref="others"/>
+    <file name="avant1.jpg" crc="3847659062" seo="true" ref="others"/>
+    <file name="12.jpg" crc="82140308" seo="true" ref="others"/>
+    <file name=" .jpg" crc="97940151" seo="true" ref="others"/>
+    <file name="screen shot 2015-04-06 at 110855 copy.jpg" crc="4266123663" seo="true" ref="others"/>
+    <file name="twiddles.jpg" crc="266817075" seo="true" ref="others"/>
+    <file name="figurenground.jpg" crc="4286818068" seo="true" ref="others"/>
+    <file name="774464_10200384492556970_1488572564_o480x302.jpg" crc="3833219349" seo="true" ref="others"/>
+    <file name="finalfinal-crop-u35016.jpg" crc="514708447" ref="others"/>
+    <file name="a-crop-u35014.png" crc="311732142" ref="others"/>
+    <file name="mnss-crop-u35030.jpg" crc="473240946" ref="others"/>
+    <file name="untitled-3-crop-u35003.jpg" crc="3903421543" ref="others"/>
+    <file name="business card showcase480x321.jpg" crc="3981892422" seo="true" ref="others"/>
+    <file name="avant1-crop-u34999.jpg" crc="4273595835" ref="others"/>
+    <file name="1480x302.jpg" crc="243358509" seo="true" ref="others"/>
+    <file name=" -crop-u35001.jpg" crc="536187994" ref="others"/>
+    <file name="screen shot 2015-04-06 at 110855 copy480x306.jpg" crc="4044495715" seo="true" ref="others"/>
+    <file name="twiddles480x274.jpg" crc="35343794" seo="true" ref="others"/>
+    <file name="figurenground-crop-u35022.jpg" crc="4213439974" ref="others"/>
+    <file name="2-crop-u34968.jpg" crc="3764220711" ref="others"/>
+    <file name="screen shot 2016-06-14 at 231847353x624.jpg" crc="3758591688" seo="true" ref="ux-design"/>
+    <file name="screen shot 2016-06-14 at 232239353x624.jpg" crc="274411998" seo="true" ref="ux-design"/>
+    <file name="screen shot 2016-06-14 at 232201352x624.jpg" crc="4101982602" seo="true" ref="ux-design"/>
+    <file name="screen shot 2016-06-14 at 232143354x624.jpg" crc="4044669818" seo="true" ref="ux-design"/>
+    <file name="screen shot 2016-05-24 at 211238.jpg" crc="122114063" seo="true" ref="ux-design"/>
+    <file name="screen shot 2016-06-14 at 235310354x624.jpg" crc="4133205534" seo="true" ref="ux-design"/>
+    <file name="screen shot 2016-06-15 at 215855.jpg" crc="4031435" seo="true" ref="ux-design"/>
+    <file name="screen shot 2016-05-25 at 010259.jpg" crc="4253824116" seo="true" ref="ux-design"/>
+    <file name="ui.jpg" crc="4106426207" seo="true" ref="ux-design"/>
+    <file name="image showreel484x272.jpg" crc="4206894185" seo="true" ref="ux-design"/>
+    <file name="screen shot 2016-06-14 at 231847-crop-u41200.jpg" crc="140088467" ref="ux-design"/>
+    <file name="screen shot 2016-06-14 at 232239-crop-u41196.jpg" crc="4021007796" ref="ux-design"/>
+    <file name="screen shot 2016-06-14 at 232201-crop-u41215.jpg" crc="19384269" ref="ux-design"/>
+    <file name="screen shot 2016-06-14 at 232143-crop-u41204.jpg" crc="209659712" ref="ux-design"/>
+    <file name="screen shot 2016-05-24 at 211238485x272.jpg" crc="284768797" seo="true" ref="ux-design"/>
+    <file name="screen shot 2016-06-14 at 235310-crop-u41355.jpg" crc="4124557979" ref="ux-design"/>
+    <file name="screen shot 2016-06-15 at 215855485x272.jpg" crc="289914237" seo="true" ref="ux-design"/>
+    <file name="screen shot 2016-05-25 at 010259480x305.jpg" crc="4007181828" seo="true" ref="ux-design"/>
+    <file name="ui-crop-u41209.jpg" crc="17341818" ref="ux-design"/>
+    <file name="oneplus one mockup-crop-u41188.jpg" crc="3979149919" ref="ux-design"/>
+    <file name="untitled-1.gif" crc="4083752854" seo="true" ref="index"/>
+    <file name="imagecv.jpg" crc="36922588" ref="about"/>
+    <file name="imagebiz.jpg" crc="4131426713" ref="projects"/>
+    <file name="poster2.jpg" crc="3948337293" ref="projects"/>
+    <file name="screen shot 2016-04-24 at 214157.jpg" crc="200902391" ref="projects"/>
+    <file name="finaaaal2.jpg" crc="390220816" ref="projects"/>
+    <file name="screen shot 2016-07-02 at 115756.jpg" crc="3382215" seo="true" ref="projects:d-ad-website"/>
+    <file name="first issue46.jpg" crc="86296383" ref="projects"/>
+    <file name="screen shot 2015-06-15 at 1616472.jpg" crc="4172255681" ref="projects"/>
+    <file name="hhbhb2.jpg" crc="320515102" ref="projects"/>
+    <file name="screen shot 2016-05-24 at 2330122.jpg" crc="137813338" ref="projects"/>
+    <file name="gimp-glitch-background(resize) copy (405 kb).jpg" crc="4242788668" ref="projects"/>
+    <file name="land.svg" crc="271843560" ref="projects"/>
+    <file name="land_poster_u43482.png" crc="4057396558" ref="projects"/>
+    <file name="screen shot 2016-07-02 at 115756-crop-u45011.jpg" crc="3773169131" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115802.jpg" crc="4027522353" seo="true" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115805.jpg" crc="4200728010" seo="true" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115816.jpg" crc="3763286984" seo="true" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115821.jpg" crc="38397960" seo="true" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115833.jpg" crc="4113868854" seo="true" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115842.jpg" crc="4154891337" seo="true" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115849.jpg" crc="212813493" seo="true" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115853.jpg" crc="353810921" seo="true" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115856.jpg" crc="62532734" seo="true" ref="d-ad-website"/>
+    <file name="macpng.svg" crc="54471268" ref="d-ad-website"/>
+    <file name="macpng_poster_.png" crc="404125076" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115756-crop-u45514.jpg" crc="4075131999" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115802-crop-u45524.jpg" crc="74473401" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115816-crop-u45536.jpg" crc="123827659" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115821-crop-u45548.jpg" crc="3873884202" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115833-crop-u45560.jpg" crc="3762661777" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115842-crop-u45572.jpg" crc="31493284" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115849-crop-u45582.jpg" crc="136866345" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115853-crop-u45592.jpg" crc="3929240384" ref="d-ad-website"/>
+    <file name="screen shot 2016-07-02 at 115856-crop-u45604.jpg" crc="4009151679" ref="d-ad-website"/>
+  </folder>
+  <file name="libre-graphics-re-brand.html" crc="398329983" seo="true" mt="1467825399004" redirect="true"/>
+  <file name="libre-graphics-meeting.html" crc="3806346326" seo="true" mt="1467491759599" redirect="true"/>
+  <file name="future-foods.html" crc="4113518158" seo="true" mt="1467832003060" redirect="true"/>
+  <file name="emilio-de-la-morena.html" crc="262024955" seo="true" mt="1467491759599" redirect="true"/>
+  <file name="design-museum-competition.html" crc="4070242496" seo="true" mt="1467491759599" redirect="true"/>
+  <file name="avant.html" crc="102750560" seo="true" mt="1467491759599" redirect="true"/>
+  <file name="eleven11.html" crc="508932229" seo="true" mt="1467491759599" redirect="true"/>
+  <file name="dimsum-corner.html" crc="427468147" seo="true" mt="1467491759599" redirect="true"/>
+  <file name="others.html" crc="4265590160" seo="true" mt="1467491759599" redirect="true"/>
+  <file name="motion-graphics.html" crc="259082025" seo="true" mt="1467491759599" redirect="true"/>
+  <file name="ux-design.html" crc="4165771347" seo="true" mt="1467491759599" redirect="true"/>
+  <file name="index.html" crc="164578336" seo="true" mt="1467833652498" redirect="true"/>
+  <file name="about.html" crc="3860904254" seo="true" mt="1467834487764" redirect="true"/>
+  <file name="projects.html" crc="261333127" seo="true" mt="1467834569217" redirect="true"/>
+  <file name="d-ad-website.html" crc="4246463428" seo="true" mt="1467830499809" redirect="true"/>
+</manifest>
